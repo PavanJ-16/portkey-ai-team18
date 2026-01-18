@@ -1,7 +1,8 @@
 # Grok Guardrails - Team 18
 
 **Team Member:** Pavan J  , Kushva Rudra
-**Problem Statement:** Create effective guardrails for Grok AI model
+**Problem Statement 3:** Fine-Tuned OSS Guardrail Models 
+
 
 ---
 
