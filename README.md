@@ -1,6 +1,6 @@
 # Grok Guardrails - Team 18
 
-**Team Member:** Pavan J  , Kushva Rudra
+**Team Member:** Pavan J, Rudra Kushwah
 **Problem Statement 3:** Fine-Tuned OSS Guardrail Models 
 
 
